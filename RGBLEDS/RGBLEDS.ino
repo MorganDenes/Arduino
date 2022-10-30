@@ -1,8 +1,8 @@
 #include <Stepper.h>
 
-const int red = 11;
+const int red = 9;
 const int green = 10;
-const int blue = 9;
+const int blue = 11;
 
 void setup() {
   pinMode(red, OUTPUT);
